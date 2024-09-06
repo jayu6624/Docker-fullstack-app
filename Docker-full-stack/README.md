@@ -1,1 +1,1 @@
-# docker_mern
+# Docker full-stack app
